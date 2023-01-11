@@ -1,3 +1,22 @@
 body{
     background-color: dodgerblue;
 }
+
+.display-size{
+    height: 300px;
+    width: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5%;
+    border-style: solid;
+    border-color: grey;
+}
+
+.background-red{
+    background-color: crimson;
+}
+
+.btn-circle{
+    height: 90px;
+    width: 90px;
+}
