@@ -3,13 +3,14 @@ body{
 }
 
 .display-size{
-    height: 300px;
-    width: 350px;
+    height: 350px;
+    max-width: 360px;
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 5%;
     border-style: solid;
     border-color: grey;
+    background-color: aliceblue;
 }
 
 .background-red{
